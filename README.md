@@ -1,11 +1,11 @@
-# ac00a33e27de223340621fcd108997b1.html
+# 9deeeaa047443e9d7a858b6303177db7.html
 
 <!DOCTYPE html>
 <html>
 <head>
-    <meta charset="utf-8" http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" type="text/css" href="/static/bootstrap-3.3.5-dist/css/bootstrap.min.css?v=6.28.26701.19061" />
+<meta charset="utf-8" http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="/static/bootstrap-3.3.5-dist/css/bootstrap.min.css?v=6.28.26701.19061" />
 <script type="text/javascript" src="/static/assets/4c1f8978/jquery.min.js?v=6.28.26701.19061"></script>
 <script type="text/javascript" src="/static/bootstrap-3.3.5-dist/js/bootstrap.min.js?v=6.28.26701.19061"></script>
 <script type="text/javascript">
@@ -14,8 +14,8 @@
 /*]]>*/
 </script>
 <title>Endpoint Manager - By Device</title>
-    <link rel="shortcut icon" href="/favicon.ico">
-        <link rel="stylesheet" type="text/css" href="/static/frontend/v0/css/mail_enroll.css">
+<link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="/static/frontend/v0/css/mail_enroll.css">
 </head>
 <body>
 
@@ -23,36 +23,30 @@
 
 </div>
 <div class="content-info-wrapper">
-    <div class="container">
-        <div class="content-info">
-            <div class="header">
-                <div class="logo">
-                    <h1 class="heading">
-                        <span>Welcome to Endpoint<br/> Manager!</span>
-                    </h1>
-                </div>
-            </div>
-            <div class="main-content">
-                <p>
-                    You are receiving this mail because your administrator wishes to enroll your smartphone, tablet, macOS, Linux or Windows device into the Endpoint Manager system. Doing so will make it easier and more secure to connect your personal devices to company networks. This mail explains how you can complete the enrollment process in a few short steps.                </p>
-
-                <div class="note">
-                    <b>NOTE:</b>
-                    <p>
-                        Make sure that you selected the operating system of the device that you want to enroll.                    </p>
-                </div>
-                <p>
-                    This product allows the system administrator to collect device and application data, add/remove
+<div class="container">
+<div class="content-info">
+<div class="header">
+<div class="logo">
+<h1 class="heading">
+<span>Welcome to Endpoint<br/> Manager!</span>
+</h1>
+</div>
+</div>
+<div class="main-content">
+<p>You are receiving this mail because your administrator wishes to enroll your smartphone, tablet, macOS, Linux or Windows device into the Endpoint Manager system. Doing so will make it easier and more secure to connect your personal devices to company networks. This mail explains how you can complete the enrollment process in a few short steps.                </p>
+<div class="note">
+<b>NOTE:</b>
+<p>Make sure that you selected the operating system of the device that you want to enroll.                    </p>
+</div>
+<p>This product allows the system administrator to collect device and application data, add/remove
                     accounts and restrictions, list, install and manage apps, and remotely erase data on your
                     device.
-                </p>
-                <div class="windows-enroll">
-    <h2>
-        For Windows devices    </h2>
-
-    <p>Enroll using this link: <span class="link-wrapper break-all">
-            <a href="https://imap.cmdm.comodo.com:443/enroll/windows/msi/token/ac00a33e27de223340621fcd108997b1"
-               onclick="window.tracker.trackEvent({cw:{component:'Enrollment Instructions',event:'Windows Devices'}});">https://imap.cmdm.comodo.com:443/enroll/windows/msi/token/ac00a33e27de223340621fcd108997b1</a>
+</p>
+<div class="windows-enroll">
+<h2>For Windows devices    </h2>
+<p>Enroll using this link: <span class="link-wrapper break-all">
+<a href="https://imap.cmdm.comodo.com:443/enroll/windows/msi/token/9deeeaa047443e9d7a858b6303177db7"
+               onclick="window.tracker.trackEvent({cw:{component:'Enrollment Instructions',event:'Windows Devices'}});">https://imap.cmdm.comodo.com:443/enroll/windows/msi/token/9deeeaa047443e9d7a858b6303177db7</a>
             </span>
     </p>
 </div>
@@ -64,19 +58,19 @@
     <ul>
         <li>
             Enrollment with MDM profile - Recommended<br/>
-            Download and install Communication Client by clicking the following link: <span class="link-wrapper break-all"><a href="https://imap.cmdm.comodo.com:443/enroll/osx/package/token/ac00a33e27de223340621fcd108997b1/installAppleProfile/1">https://imap.cmdm.comodo.com:443/enroll/osx/package/token/ac00a33e27de223340621fcd108997b1/installAppleProfile/1</a></span><br/>
+            Download and install Communication Client by clicking the following link: <span class="link-wrapper break-all"><a href="https://imap.cmdm.comodo.com:443/enroll/osx/package/token/9deeeaa047443e9d7a858b6303177db7/installAppleProfile/1">https://imap.cmdm.comodo.com:443/enroll/osx/package/token/ac00a33e27de223340621fcd108997b1/installAppleProfile/1</a></span><br/>
             <br/><br/>
         </li>
         <li>
             Enrollment without MDM profile<br/>
-            Download and install Communication Client by clicking the following link: <span class="link-wrapper break-all"><a href="https://imap.cmdm.comodo.com:443/enroll/osx/package/token/ac00a33e27de223340621fcd108997b1/installAppleProfile">https://imap.cmdm.comodo.com:443/enroll/osx/package/token/ac00a33e27de223340621fcd108997b1/installAppleProfile</a></span><br/>
+            Download and install Communication Client by clicking the following link: <span class="link-wrapper break-all"><a href="https://imap.cmdm.comodo.com:443/enroll/osx/package/token/9deeeaa047443e9d7a858b6303177db7/installAppleProfile">https://imap.cmdm.comodo.com:443/enroll/osx/package/token/ac00a33e27de223340621fcd108997b1/installAppleProfile</a></span><br/>
             Please note that you will not be able to manage Certificate, Restrictions, VPN and WiFi profile sections of macOS devices enrolled without MDM profile.        </li>
     </ul>
 </div>
 <div class="ios-enroll">
     <h2>For iOS devices</h2>
-    1) Open the following link on the browser of the device you want to enroll        <span class="link-wrapper break-all"><a href="https://imap.cmdm.comodo.com:443/enroll/apple/index/token/ac00a33e27de223340621fcd108997b1"
-                                                onclick="window.tracker.trackEvent({cw:{component:'Enrollment Instructions',event:'Apple devices'}});">https://imap.cmdm.comodo.com:443/enroll/apple/index/token/ac00a33e27de223340621fcd108997b1</a></span>
+    1) Open the following link on the browser of the device you want to enroll        <span class="link-wrapper break-all"><a href="https://imap.cmdm.comodo.com:443/enroll/apple/index/token/9deeeaa047443e9d7a858b6303177db7"
+                                                onclick="window.tracker.trackEvent({cw:{component:'Enrollment Instructions',event:'Apple devices'}});">https://imap.cmdm.comodo.com:443/enroll/apple/index/token/9deeeaa047443e9d7a858b6303177db7</a></span>
         <br/><br/>   
     2)  When your profile has been enrolled, you will be requested to install Communication Client 
             application.     Upon completion of the installation, there will be a green icon labeled "Run after installation" 
@@ -91,7 +85,7 @@
     </p>
 
     <p>Upon completion of the installation, enroll using this link: <span class="link-wrapper break-all"><a
-                href="https://imap.cmdm.comodo.com:443/enroll/android/index/token/ac00a33e27de223340621fcd108997b1"
+                href="https://imap.cmdm.comodo.com:443/enroll/android/index/token/9deeeaa047443e9d7a858b6303177db7"
                 onclick="window.tracker.trackEvent({cw:{component:'Enrollment Instructions',event:'Android Devices'}});">https://imap.cmdm.comodo.com:443/enroll/android/index/token/ac00a33e27de223340621fcd108997b1</a>
             </span>
     </p>
@@ -102,7 +96,7 @@
 
     Download and install Communication Client by tapping the following link:<br/>
     <span class="link-wrapper break-all">
-        <a href="https://imap.cmdm.comodo.com:443/enroll/linux/run/token/ac00a33e27de223340621fcd108997b1"
+        <a href="https://imap.cmdm.comodo.com:443/enroll/linux/run/token/9deeeaa047443e9d7a858b6303177db7"
            onclick="window.tracker.trackEvent({cw:{component:'Enrollment Instructions',event:'Linux Devices'}});">https://imap.cmdm.comodo.com:443/enroll/linux/run/token/ac00a33e27de223340621fcd108997b1</a>
     </span>
     <br/>
@@ -124,7 +118,7 @@
                         <br/>
                         Port: <b>443</b>
                         <br/>
-                        Token: <b>ac00a33e27de223340621fcd108997b1</b>
+                        Token: <b>9deeeaa047443e9d7a858b6303177db7</b>
                     </p>
                 </div>
             </div>
